@@ -8,8 +8,8 @@ const contanier = document.getElementById('root');
 const root = createRoot(contanier);
 root.render(
   <di>
-    {/* <App /> */}
-    {<EmojipediaFilter />}
+    <App />
+    {/* {<EmojipediaFilter />} */}
 
   </di>
 )
